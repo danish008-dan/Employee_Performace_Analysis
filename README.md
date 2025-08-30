@@ -85,3 +85,19 @@ pip install -r requirements.txt
 Usage
 
 The code processes the employee performance dataset to perform various analyses. Simply load the dataset and run the Python script. The dataset is assumed to be in CSV format, with the filename employee_performance_dataset.csv.
+
+After cleaning and analyzing the dataset, here are two potential business insights:
+
+1. High-Performing Employees Are Often Overlooked for Promotions
+
+By filtering employees based on performance scores and promotion eligibility, you may observe a pattern where some high-performing employees are not being considered for promotions. Analyzing the Performance_Score, Promotion_Eligible, and Projects_Handled columns could reveal discrepancies in how promotions are awarded compared to employee performance.
+
+Insight: Employees with high performance scores but low project handling experience could be overlooked for promotions, while those with a greater number of projects but lower performance scores are promoted. This suggests a potential misalignment between promotion criteria and actual performance, which could be addressed by revising promotion policies to better align with employees' contributions.
+
+2. Department-Specific Performance Variability
+
+The variance in performance scores across departments can be a significant insight. If one department has significantly higher variance in performance compared to others, it might indicate that the employees in that department have more uneven workloads, differing skill sets, or lack of training consistency. This would be especially useful for improving department-specific training programs and optimizing resource allocation.
+
+Insight: For example, if the IT department shows the lowest variance, this suggests that performance is relatively consistent, potentially due to standardized processes, training, or workload distribution. On the other hand, departments with high variance might benefit from a closer look into workload balance, skill gaps, and training needs to enhance overall performance consistency.
+
+These insights could lead to strategic improvements in both employee recognition and department-specific management practices
