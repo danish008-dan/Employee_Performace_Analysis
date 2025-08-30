@@ -1,0 +1,206 @@
+Employee_ID,Name,Department,Joining_Date,Salary,Performance_Score,Promotion_Eligible,Work_Location,Projects_Handled
+1016,Meena,Finance,2019-09-22,60000.0,10.0,No,Pune,7.0
+1010,Kavita,HR,2017-04-02,70000.0,1.0,No,Hyderabad,2.0
+1101,Rajesh,Marketing,2022-07-31,50000.0,8.0,Yes,Bangalore,11.0
+1133,Alok,Finance,2024-06-30,70000.0,4.0,Yes,Delhi,6.0
+1069,Vikas,Data Science,2022-11-27,70000.0,3.0,No,Chennai,3.0
+1096,Sneha,Data Science,2024-09-08,60000.0,7.0,No,Bangalore,19.0
+1160,Divya,Finance,2021-08-29,50000.0,5.0,No,Hyderabad,16.0
+1163,Divya,Data Science,2018-08-26,80000.0,7.0,No,Bangalore,14.0
+1148,Rajesh,Finance,2016-09-25,60000.0,4.0,No,Pune,15.0
+1183,Rohit,IT,2022-12-11,70000.0,7.0,Yes,Chennai,13.0
+1192,Mohit,Marketing,2022-02-20,50000.0,9.0,Yes,Hyderabad,
+1165,Deepak,Operations,2022-01-23,50000.0,7.0,Yes,Mumbai,15.0
+1066,Anjali,IT,2024-08-04,70000.0,8.0,No,nan,20.0
+1176,Arjun,HR,2019-05-05,,9.0,Yes,Bangalore,2.0
+1074,Kiran,Operations,2023-10-01,60000.0,7.0,No,Mumbai,6.0
+1153,Amit,Data Science,2019-03-17,70000.0,9.0,No,nan,4.0
+1019,Sneha,Finance,2023-04-30,,10.0,Yes,Bangalore,1.0
+1083,Alok,HR,2020-03-22,50000.0,7.0,Yes,Mumbai,12.0
+1087,Rajesh,Data Science,2015-05-10,60000.0,4.0,No,nan,18.0
+1144,Arjun,Finance,2022-12-11,60000.0,7.0,Yes,Hyderabad,16.0
+1061,Kavita,Data Science,2015-08-30,80000.0,9.0,No,Pune,12.0
+1102,Sneha,Operations,2015-06-21,50000.0,9.0,Yes,Chennai,
+1099,Mohit,IT,2016-04-24,50000.0,9.0,No,Bangalore,3.0
+1031,Deepak,Data Science,2021-07-11,60000.0,4.0,Yes,Hyderabad,12.0
+1026,Sneha,Operations,2023-09-03,40000.0,9.0,No,Mumbai,5.0
+1017,Arjun,HR,2016-06-12,80000.0,8.0,Yes,Mumbai,4.0
+1169,Amit,Finance,2016-02-07,40000.0,2.0,Yes,Mumbai,20.0
+1196,Mohit,Operations,2016-09-18,80000.0,6.0,No,Hyderabad,1.0
+1098,Arjun,IT,2017-10-01,70000.0,10.0,No,Delhi,17.0
+1195,Suman,Finance,2021-08-29,70000.0,3.0,Yes,Pune,20.0
+1068,Mohit,Data Science,2016-06-05,40000.0,9.0,Yes,Delhi,17.0
+1121,Deepak,Finance,2019-05-26,,9.0,Yes,Mumbai,14.0
+1155,Alok,Operations,2024-02-11,70000.0,7.0,Yes,Chennai,0.0
+1031,Deepak,Data Science,2021-07-11,60000.0,4.0,Yes,Hyderabad,12.0
+1080,Sneha,HR,2022-01-23,40000.0,7.0,No,Mumbai,16.0
+1070,Nikhil,IT,2022-03-13,60000.0,7.0,Yes,Bangalore,1.0
+1146,Vikas,Marketing,2018-06-24,50000.0,10.0,Yes,nan,20.0
+1056,Kavita,Operations,2022-08-07,70000.0,10.0,Yes,Chennai,3.0
+1046,Rajesh,HR,2024-07-07,50000.0,6.0,No,Pune,15.0
+1085,Pooja,Marketing,2021-07-18,70000.0,,No,Hyderabad,15.0
+1147,Manish,IT,2018-03-11,60000.0,7.0,No,Hyderabad,14.0
+1067,Pooja,HR,2024-06-09,70000.0,7.0,Yes,nan,6.0
+1112,Amit,Marketing,2019-04-07,60000.0,4.0,No,Chennai,11.0
+1154,Arjun,Operations,2016-02-07,70000.0,5.0,Yes,Chennai,2.0
+1097,Meena,Data Science,2022-01-09,,3.0,Yes,Hyderabad,3.0
+1039,Meena,IT,2019-04-07,50000.0,8.0,Yes,nan,1.0
+1025,Alok,Data Science,2016-10-16,40000.0,1.0,Yes,nan,17.0
+1140,Divya,Marketing,2020-10-04,50000.0,4.0,Yes,Bangalore,19.0
+1113,Anjali,HR,2017-07-16,70000.0,9.0,No,Bangalore,3.0
+1030,Alok,HR,2023-04-09,70000.0,9.0,No,nan,4.0
+1020,Tina,Data Science,2016-08-21,60000.0,,Yes,Mumbai,14.0
+1179,Meena,Data Science,2015-11-22,80000.0,7.0,No,nan,2.0
+1091,Deepak,IT,2019-06-16,70000.0,10.0,No,Pune,1.0
+1174,Meena,Operations,2018-11-18,40000.0,9.0,No,Hyderabad,19.0
+1094,Manish,IT,2023-09-17,60000.0,5.0,Yes,Hyderabad,
+1006,Deepak,Data Science,2022-07-10,40000.0,4.0,No,Delhi,10.0
+1168,Tina,Finance,2017-07-23,80000.0,5.0,Yes,Delhi,16.0
+1057,Nikhil,HR,2015-03-22,60000.0,7.0,Yes,Bangalore,5.0
+1129,Rohit,Operations,2015-07-19,40000.0,10.0,Yes,Hyderabad,16.0
+1077,Deepak,Operations,2016-10-30,60000.0,6.0,No,Mumbai,13.0
+1145,Divya,Data Science,2023-07-09,50000.0,7.0,No,nan,11.0
+1105,Arjun,HR,2017-11-19,60000.0,2.0,No,nan,
+1178,Alok,Marketing,2022-09-11,70000.0,6.0,Yes,nan,20.0
+1076,Arjun,Operations,2016-11-20,80000.0,7.0,Yes,Bangalore,12.0
+1175,Amit,Operations,2019-05-19,70000.0,,Yes,Bangalore,6.0
+1032,Manish,Data Science,2020-07-12,70000.0,4.0,No,nan,16.0
+1013,Meena,Data Science,2020-03-15,80000.0,8.0,Yes,Delhi,9.0
+1036,Anjali,IT,2024-12-29,80000.0,7.0,No,Pune,18.0
+1126,Deepak,HR,2022-07-10,60000.0,10.0,Yes,Delhi,13.0
+1043,Sneha,Operations,2015-04-19,80000.0,6.0,Yes,Hyderabad,0.0
+1157,Sneha,HR,2021-11-28,50000.0,6.0,Yes,Chennai,14.0
+1137,Suman,Data Science,2024-10-13,60000.0,5.0,No,Pune,1.0
+1141,Rohit,Finance,2017-07-09,70000.0,4.0,No,Bangalore,
+1052,Kavita,Finance,2022-12-25,80000.0,5.0,No,Hyderabad,10.0
+1114,Deepak,IT,2018-02-11,60000.0,5.0,No,Delhi,2.0
+1167,Rajesh,Operations,2017-03-26,60000.0,3.0,No,Mumbai,13.0
+1042,Deepak,IT,2024-11-17,50000.0,7.0,No,nan,12.0
+1125,Amit,Finance,2018-04-01,80000.0,10.0,Yes,Bangalore,1.0
+1079,Arjun,Marketing,2015-09-13,80000.0,1.0,Yes,Hyderabad,8.0
+1120,Alok,HR,2019-11-03,70000.0,4.0,Yes,Hyderabad,5.0
+1027,Divya,IT,2018-11-25,40000.0,9.0,No,Bangalore,4.0
+1138,Sneha,HR,2021-04-04,40000.0,9.0,No,Mumbai,14.0
+1096,Sneha,Data Science,2024-09-08,60000.0,7.0,No,Bangalore,19.0
+1118,Neha,Marketing,2016-05-29,80000.0,6.0,Yes,Bangalore,10.0
+1003,Kiran,HR,2024-01-28,60000.0,7.0,No,Pune,13.0
+1078,Manish,Operations,2018-08-19,80000.0,9.0,No,Chennai,16.0
+1047,Anjali,Operations,2018-01-21,40000.0,7.0,No,Mumbai,7.0
+1123,Divya,Finance,2018-04-29,80000.0,3.0,Yes,Mumbai,18.0
+1128,Kiran,Finance,2024-11-24,40000.0,7.0,No,Bangalore,3.0
+1086,Rajesh,Operations,2022-08-07,50000.0,5.0,No,Pune,5.0
+1139,Sneha,Operations,2019-02-24,70000.0,5.0,Yes,Bangalore,13.0
+1037,Nikhil,Operations,2016-11-27,60000.0,8.0,No,Mumbai,2.0
+1115,Manish,Data Science,2019-02-10,50000.0,5.0,No,Hyderabad,19.0
+1062,Anjali,IT,2016-09-18,80000.0,8.0,Yes,Mumbai,18.0
+1023,Kiran,Data Science,2016-04-24,80000.0,10.0,No,nan,4.0
+1136,Vikas,Data Science,2024-07-28,60000.0,1.0,Yes,Chennai,19.0
+1193,Arjun,Finance,2015-02-22,70000.0,,Yes,Delhi,
+1034,Nikhil,HR,2021-10-31,70000.0,10.0,No,nan,7.0
+1012,Rajesh,Data Science,2019-07-14,40000.0,7.0,Yes,Mumbai,11.0
+1200,Alok,IT,2024-08-11,50000.0,8.0,Yes,Delhi,16.0
+1164,Sneha,Finance,2024-09-22,40000.0,7.0,Yes,Hyderabad,11.0
+1007,Alok,Data Science,2016-02-07,40000.0,8.0,Yes,nan,8.0
+1028,Rajesh,Marketing,2019-03-03,40000.0,9.0,No,Hyderabad,15.0
+1127,Vikas,Operations,2018-09-16,70000.0,7.0,Yes,Delhi,1.0
+1197,Rajesh,HR,2021-01-17,40000.0,5.0,Yes,Bangalore,7.0
+1142,Deepak,Finance,2016-05-01,80000.0,7.0,No,Pune,10.0
+1005,Pooja,IT,2017-06-04,50000.0,7.0,Yes,Bangalore,1.0
+1033,Deepak,HR,2019-11-10,80000.0,8.0,Yes,Bangalore,17.0
+1110,Rajesh,Data Science,2018-07-22,50000.0,4.0,No,nan,13.0
+1188,Meena,IT,2015-03-22,80000.0,8.0,Yes,Mumbai,3.0
+1116,Kiran,IT,2019-06-30,60000.0,4.0,No,Delhi,11.0
+1149,Deepak,Data Science,2015-09-27,70000.0,5.0,Yes,Hyderabad,4.0
+1011,Pooja,IT,2024-05-05,80000.0,3.0,Yes,Delhi,1.0
+1063,Mohit,Data Science,2023-01-01,70000.0,9.0,No,nan,9.0
+1119,Vikas,Data Science,2024-06-02,40000.0,8.0,Yes,Hyderabad,0.0
+1151,Pooja,Marketing,2023-08-20,70000.0,6.0,Yes,Mumbai,5.0
+1171,Tina,Data Science,2017-11-05,40000.0,5.0,Yes,Delhi,14.0
+1001,Deepak,Finance,2016-02-07,40000.0,7.0,Yes,Chennai,8.0
+1185,Suman,IT,2022-02-20,70000.0,7.0,No,Delhi,16.0
+1184,Tina,Marketing,2024-10-27,80000.0,5.0,No,Mumbai,6.0
+1071,Kiran,HR,2023-01-15,60000.0,6.0,Yes,Hyderabad,13.0
+1159,Manish,Finance,2022-05-29,70000.0,7.0,Yes,nan,2.0
+1065,Pooja,Marketing,2018-09-30,70000.0,4.0,No,Chennai,10.0
+1045,Kiran,Operations,2019-12-08,40000.0,6.0,Yes,nan,18.0
+1166,Meena,Marketing,2022-10-30,60000.0,9.0,Yes,Pune,7.0
+1029,Amit,Marketing,2024-01-28,40000.0,9.0,Yes,Mumbai,12.0
+1041,Kiran,Data Science,2021-03-21,50000.0,8.0,No,Mumbai,12.0
+1109,Anjali,Marketing,2015-10-18,50000.0,3.0,Yes,Delhi,17.0
+1124,Kavita,Operations,2018-03-18,50000.0,6.0,No,Hyderabad,10.0
+1024,Kiran,Finance,2015-11-22,70000.0,8.0,Yes,Delhi,15.0
+1156,Neha,IT,2023-09-24,60000.0,8.0,No,Pune,5.0
+1190,Rohit,HR,2021-11-07,,,No,Mumbai,5.0
+1082,Rohit,HR,2019-02-24,70000.0,8.0,Yes,Pune,1.0
+1040,Divya,HR,2023-06-18,50000.0,10.0,No,Bangalore,7.0
+1173,Meena,Finance,2019-01-27,40000.0,7.0,No,Pune,17.0
+1048,Tina,Data Science,2024-02-04,60000.0,2.0,Yes,Pune,0.0
+1095,Pooja,HR,2022-05-08,80000.0,8.0,Yes,Chennai,3.0
+1159,Manish,Finance,2022-05-29,70000.0,7.0,Yes,nan,2.0
+1044,Pooja,IT,2021-06-06,80000.0,7.0,No,Chennai,5.0
+1143,Arjun,HR,2019-10-27,40000.0,,No,Chennai,2.0
+1004,Rohit,IT,2017-03-26,70000.0,7.0,Yes,nan,4.0
+1106,Rajesh,IT,2017-10-01,60000.0,3.0,Yes,Delhi,0.0
+1054,Suman,Finance,2015-10-25,40000.0,8.0,No,Pune,20.0
+1134,Meena,Finance,2021-12-26,40000.0,7.0,Yes,Delhi,14.0
+1186,Amit,Operations,2019-12-15,60000.0,10.0,No,Bangalore,11.0
+1162,Tina,HR,2024-09-01,50000.0,7.0,No,Pune,17.0
+1191,Mohit,IT,2022-10-23,70000.0,8.0,Yes,Mumbai,15.0
+1050,Nikhil,Data Science,2023-03-05,80000.0,7.0,Yes,nan,8.0
+1081,Pooja,Operations,2020-05-03,40000.0,7.0,No,nan,7.0
+1035,Kavita,HR,2015-06-07,70000.0,5.0,No,Delhi,12.0
+1008,Rohit,Finance,2024-10-27,80000.0,2.0,No,Bangalore,2.0
+1111,Arjun,Operations,2022-08-14,40000.0,4.0,No,nan,14.0
+1092,Manish,Marketing,2016-06-12,50000.0,3.0,Yes,Pune,14.0
+1084,Tina,Finance,2016-03-06,50000.0,9.0,Yes,Mumbai,2.0
+1182,Kavita,IT,2017-09-24,60000.0,7.0,No,Pune,14.0
+1187,Divya,Marketing,2024-01-07,60000.0,7.0,No,Pune,19.0
+1090,Neha,Marketing,2023-07-09,60000.0,8.0,No,Mumbai,8.0
+1009,Rohit,Data Science,2016-10-30,60000.0,3.0,No,Hyderabad,8.0
+1014,Sneha,Finance,2018-08-12,70000.0,9.0,No,Chennai,8.0
+1060,Neha,IT,2024-07-21,70000.0,,No,Bangalore,10.0
+1177,Arjun,IT,2023-06-11,80000.0,10.0,Yes,Hyderabad,11.0
+1132,Deepak,Finance,2021-06-27,80000.0,10.0,Yes,nan,8.0
+1018,Sneha,IT,2017-12-10,60000.0,6.0,No,Delhi,10.0
+1073,Manish,Operations,2022-07-17,50000.0,8.0,No,Bangalore,11.0
+1181,Suman,IT,2020-11-01,,4.0,No,Delhi,13.0
+1135,Neha,Data Science,2021-07-18,80000.0,4.0,No,Chennai,10.0
+1172,Tina,IT,2016-07-10,80000.0,10.0,Yes,Mumbai,13.0
+1199,Kavita,HR,2015-10-11,80000.0,8.0,Yes,nan,12.0
+1064,Kiran,Operations,2017-03-12,,3.0,No,nan,9.0
+1055,Neha,Finance,2020-06-14,80000.0,4.0,No,Chennai,9.0
+1108,Kiran,Marketing,2017-01-29,40000.0,10.0,No,Hyderabad,17.0
+1051,Pooja,Marketing,2020-02-16,50000.0,6.0,Yes,Delhi,12.0
+1016,Meena,Finance,2019-09-22,60000.0,10.0,No,Pune,7.0
+1170,Tina,Operations,2018-04-22,80000.0,9.0,Yes,Delhi,7.0
+1059,Meena,Data Science,2019-11-03,80000.0,7.0,Yes,Pune,4.0
+1049,Kavita,HR,2022-04-10,60000.0,4.0,No,Mumbai,15.0
+1089,Amit,Data Science,2022-07-31,70000.0,5.0,Yes,Bangalore,9.0
+1022,Mohit,IT,2019-03-17,60000.0,6.0,No,Mumbai,7.0
+1058,Sneha,Marketing,2020-10-11,60000.0,8.0,Yes,Mumbai,6.0
+1161,Tina,Operations,2018-08-19,60000.0,8.0,Yes,Bangalore,11.0
+1198,Divya,Data Science,2018-05-27,60000.0,2.0,Yes,Bangalore,10.0
+1130,Kavita,Finance,2018-02-25,40000.0,7.0,No,nan,2.0
+1038,Manish,Data Science,2018-06-10,50000.0,7.0,No,Pune,7.0
+1158,Kiran,IT,2015-01-04,80000.0,9.0,Yes,Bangalore,1.0
+1194,Manish,IT,2017-04-30,60000.0,10.0,Yes,Pune,20.0
+1002,Divya,HR,2021-08-15,50000.0,6.0,Yes,Hyderabad,3.0
+1053,Meena,Operations,2018-03-18,,8.0,Yes,nan,12.0
+1150,Suman,IT,2017-05-28,60000.0,5.0,No,Bangalore,19.0
+1131,Vikas,HR,2023-01-29,70000.0,1.0,No,Delhi,12.0
+1152,Manish,IT,2018-04-22,70000.0,6.0,Yes,Delhi,18.0
+1104,Rajesh,Operations,2024-04-07,60000.0,2.0,Yes,Chennai,9.0
+1100,Amit,Operations,2016-11-20,80000.0,1.0,No,Hyderabad,16.0
+1117,Kiran,Marketing,2015-03-01,40000.0,8.0,No,Pune,6.0
+1088,Arjun,IT,2018-05-20,60000.0,6.0,Yes,Bangalore,6.0
+1075,Vikas,Operations,2018-09-02,70000.0,7.0,No,Delhi,1.0
+1122,Tina,Data Science,2024-12-08,60000.0,8.0,No,Chennai,14.0
+1129,Rohit,Operations,2015-07-19,40000.0,10.0,Yes,Hyderabad,16.0
+1021,Neha,IT,2020-06-14,70000.0,4.0,Yes,nan,5.0
+1189,Suman,Operations,2021-04-25,50000.0,9.0,Yes,Pune,8.0
+1072,Vikas,HR,2020-04-19,80000.0,7.0,Yes,Delhi,12.0
+1107,Amit,Data Science,2015-09-27,80000.0,9.0,Yes,Mumbai,
+1015,Suman,Operations,2023-07-23,50000.0,3.0,Yes,nan,14.0
+1093,Deepak,HR,2020-01-26,70000.0,3.0,Yes,nan,4.0
+1180,Sneha,Marketing,2019-06-16,40000.0,5.0,Yes,Delhi,19.0
+1103,Pooja,Marketing,2023-12-24,40000.0,6.0,Yes,Delhi,16.0

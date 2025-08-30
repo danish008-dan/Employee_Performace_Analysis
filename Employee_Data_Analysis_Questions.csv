@@ -1,0 +1,85 @@
+Text
+Section A – Basic Exploration (10 Marks)
+Load the dataset into Python using Pandas and display the first 10 rows.
+""
+Identify the types of variables (categorical vs numerical) present in the dataset.
+""
+Use info() and describe() to summarize the dataset. Write down any unusual observations.
+""
+""
+Section B – Data Cleaning (20 Marks)
+Check for duplicate records. How many duplicates exist? Remove them.
+""
+Identify columns containing missing values. Suggest suitable strategies to handle them.
+""
+"Replace missing Work_Location values with ""Unknown""."
+""
+"Decide whether missing Salary should be filled with mean, median, or dropped. Justify your choice."
+""
+""
+Section C – Sorting and Filtering (20 Marks)
+Display the top 10 employees with the highest salaries.
+""
+Find the employees who have handled more than 15 projects.
+""
+List the employees with performance scores greater than 8.
+""
+Find employees who are eligible for promotion AND have performance score > 7.
+""
+""
+Section D – Feature Engineering (20 Marks)
+Create a new column Experience_Years = 2025 - Joining_Year.
+""
+Create a new column Bonus such that:
+""
+If Performance Score > 7 → Bonus = 15% of Salary
+""
+Else → Bonus = 10% of Salary
+""
+Categorize employees into three groups based on Performance_Score:
+""
+High Performer (8–10)
+""
+Average (5–7)
+""
+Low Performer (1–4)
+""
+Categorize employees into workload groups based on Projects_Handled:
+""
+"Low (0–5), Medium (6–12), High (13–20)"
+""
+""
+Section E – Grouping and Aggregation (15 Marks)
+Calculate the average salary department-wise.
+""
+Find the number of employees in each work location.
+""
+Find the maximum performance score achieved in each department.
+""
+Find which department has the highest average number of projects handled.
+""
+""
+Section F – Visualization (15 Marks)
+Create a boxplot of Salary across different Departments.
+""
+Draw a bar chart showing the number of employees in each Work Location.
+""
+Create a scatter plot between Performance_Score and Projects_Handled.
+""
+Plot the distribution (histogram) of Salary.
+""
+""
+Section G – Advanced Thinking (Bonus 10 Marks)
+If the company wants to promote only those employees who:
+""
+Have Performance_Score > 7
+""
+Have Projects_Handled > 10
+""
+Are marked as Promotion_Eligible = Yes
+ → Find how many employees qualify.
+""
+Which department shows the most consistent (lowest variance) performance?
+""
+Suggest two possible business insights from the dataset after cleaning and analysis.
+""
